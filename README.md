@@ -47,3 +47,8 @@ A React application to create custom memes with top and bottom text, using rando
 - Add the ability to download memes.
 - Allow users to upload their own images.
 - Provide font and color customization options.
+
+
+
+![MemeCraftWebsiteImg](https://github.com/user-attachments/assets/85989b81-949a-40dc-b938-8c0ff9114289)
+
