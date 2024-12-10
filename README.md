@@ -26,15 +26,15 @@ A React application to create custom memes with top and bottom text, using rando
 
 2. Install Dependencies
 
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 
 3. Start the development server
 
-  ```bash
-  npm run dev
-  ```
+   ```bash
+   npm run dev
+   ```
 
 ## 💻 Usage
 
