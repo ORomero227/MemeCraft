@@ -42,7 +42,7 @@ A React application to create custom memes with top and bottom text, using rando
 - Click on "Get a new meme image 🖼️" to generate a random meme image.
 - Enjoy your personalized meme!
 
-## 🔜 Future Enhancements
+## 🚀 Future Enhancements
 
 - Add the ability to download memes.
 - Allow users to upload their own images.
